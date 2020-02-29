@@ -2,6 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/dumebi/rabbitmq-wrapper)](https://github.com/dumebi/rabbitmq-wrapper/issues)
 [![GitHub license](https://img.shields.io/github/license/dumebi/rabbitmq-wrapper)](https://github.com/dumebi/rabbitmq-wrapper)
 
+
 How to use this wrapper
 ```
 const subscriber = require('@dumebi/rabbitmq-wrapper')
